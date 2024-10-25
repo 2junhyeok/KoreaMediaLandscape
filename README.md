@@ -89,8 +89,8 @@
 
 - 전처리된 언론사별 제목을 하나의 text로 이어붙여 진보,기타,보수 언론 순으로 WordCloud 생성
 
-![image](https://github.com/hsjo827/Projects/assets/133327403/50d302db-9447-44b5-aa17-fe91083e3a2a)
-![image](https://github.com/hsjo827/Projects/assets/133327403/0467f7a4-8fce-40ed-95e3-ca64efb9cfb7)
+![6-1](https://github.com/user-attachments/assets/a383c5bb-f6af-46ec-8077-7261f067bbe0)
+![6-2](https://github.com/user-attachments/assets/37e8ff3f-d88a-4a48-8aae-b475e785fbb4)
 
 <br/>
 
@@ -137,11 +137,11 @@
 **[예측 결과]**
    - 윤석열 (세 언론사 모두 진보 성향)
 
- ![image](https://github.com/hsjo827/Projects/assets/133327403/1397337a-b417-438b-b655-48ef519d23f1)
+![6-3](https://github.com/user-attachments/assets/04c61d37-4fef-4e0c-8467-771d084e3640)
 
    - 이재명 (세 언론사 모두 진보 성향)
      
-![image](https://github.com/hsjo827/Projects/assets/133327403/84e7e9a7-b0b7-489d-a3bf-a408561f1e1c)
+![6-4](https://github.com/user-attachments/assets/118ced89-b914-4ab3-8238-b8ecb2152773)
 
 <br/>
 
